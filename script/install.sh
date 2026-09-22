@@ -645,7 +645,7 @@ function install_linuxqq_rootless() {
             qq_download_url="https://qqdl.gtimg.cn/qqfile/QQNT/9.9.32/beta/727ce4e5/linuxqq_3.2.30-50828_aarch64.rpm"
             qq_package_file="QQ.rpm"
         elif [ "${package_installer}" = "dpkg" ]; then
-            qq_download_url="https://github.com/naxida233/QQ/releases/download/V1.0/QQ_3.2.32_260812_arm64_01.deb"
+            qq_download_url="https://github.com/naxida2333/QQ/releases/download/V1.0/QQ_3.2.32_260812_arm64_01.deb"
             qq_package_file="QQ.deb"
         fi
     fi
